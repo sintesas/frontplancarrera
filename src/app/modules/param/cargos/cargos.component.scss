@@ -1,0 +1,28 @@
+::ng-deep {
+    // .swal2-popup {
+    //     background: #32373d !important;
+    // }
+    // .swal2-popup .swal2-title {
+    //     color: white !important;
+    // }
+    .swal2-popup .swal2-input {
+        font-size: 0.9em !important;
+        text-align: justify !important;
+        background: #f5f5f5;
+        // white-space: normal !important;
+    }
+}
+
+.button.btn-delete {
+    background-color: red;
+    color: white; /* Cambia el color del texto si es necesario para que sea legible */
+  }
+  .button.btn-guardar {
+    padding: 6px 10px;
+    width: 10%;
+    color: #fff;
+    line-height: 1.0;
+    background-color: #6c757d;
+    border-color: #6c757d;
+    font-size: 12px;
+  }
